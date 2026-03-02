@@ -20,7 +20,7 @@ Desenvolvendo soluções robustas que unem backend eficiente e interfaces respon
 
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,postgres,assembly,cpp,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,postgres,cpp,mongodb,git,github,vscode" />
 </a>
 </p>
 
