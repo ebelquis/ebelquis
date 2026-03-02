@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Elisa%20Assumpção&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Elisa%20Belquis&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
 - Graduanda em **Ciência da Computação** pela **UFSC** (Florianópolis).
@@ -21,13 +21,13 @@
 ---
 
 ### 🛠️ Tecnologias e Hard Skills
-Desenvolvendo soluções robustas que unem backend eficiente e interfaces responsivas:
+Desejo construir soluções robustas que unam backend eficiente e interfaces responsivas:
 
 **Domínio e Experiência Prática:**
 
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,postgres,cpp,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,postgres,cpp,c,mongodb,git,github,vscode" />
 </a>
 </p>
 
