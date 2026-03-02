@@ -1,15 +1,22 @@
 # Olá, eu sou a Elisa! 👋 
 
+<p align="left">
+  <a href="https://github.com/ebelquis/ebelquis/blob/main/Curriculo_Elisa_Assumpcao.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Currículo_PDF-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Elisa%20Assumpção&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
-### 👩‍💻 Sobre Mim
-- 🎓 Graduanda do em **Ciência da Computação** pela **UFSC** (Florianópolis).
-- 🏆 Fiz parte da segunda melhor equipe feminina regional da **Maratona de Programação SBC/ICPC**.
-- 🏫 Atuei como **Monitora de POO I** (INE5402) por um ano, auxiliando no ensino de lógica e arquitetura de software.
-- 📢 Ex-presidente da **Atlética de Computação e Sistemas (UFSC)**, com foco em gestão de pessoas e análise de requisitos.
-- 🏆 Sou medalhista de ouro da **Olimpíada Nacional de Ciências** nível E (nível mais alto nacional)
+- Graduanda em **Ciência da Computação** pela **UFSC** (Florianópolis).
+- Integrante da segunda melhor equipe feminina regional da **Maratona de Programação SBC/ICPC**.
+- Atuei como **Monitora de POO I** (INE5402) por um ano, auxiliando no ensino de lógica e arquitetura de software.
+- Ex-presidente da **Atlética de Computação e Sistemas (UFSC)**, com foco em gestão de pessoas e análise de requisitos.
+- Medalhista de ouro da **Olimpíada Nacional de Ciências** nível E (nível mais alto nacional).
+- **Honra ao Mérito** – 2x OBMEP (Matemática), OBQRS (Química) e OBB (Biologia).
+- **Coautora de Artigo Publicado:** "PREVINE IF: Conscientizando a comunidade e prevenindo a COVID-19 em Caxias do Sul".
 
 ---
 
@@ -34,18 +41,14 @@ Desenvolvendo soluções robustas que unem backend eficiente e interfaces respon
 
 ---
 
-### 📂 Projetos em Destaque
-- **Estudos em Web Responsiva:** Desenvolvimento de protótipos em HTML/CSS/JS focados em dashboards escaláveis e adaptabilidade mobile.
-- **Integração SQL-Python (SENAI):** Desenvolvimento de backend para processamento de dados utilizando PostgreSQL e Python.
-
----
-
-### 📫 Vamos nos conectar?
+### Conecte-se comigo:
 <p align="left">
   <a href="https://linkedin.com/in/elisa-belquis-de-assumpção" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
 
 <!--
 **ebelquis/ebelquis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
